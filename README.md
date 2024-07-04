@@ -1,9 +1,3 @@
-
-# Bem Vindos ao meu Perfil
-
-
-
-
 # Bem Vindos ao meu Perfil
 
 
