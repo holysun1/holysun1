@@ -4,7 +4,7 @@
 
 
 
-## 🚀 Sobre
+## 🚀 Sobre Mim
 
 ### Me chamo Diego Vieira , vou compartilhar com vocês meus estudos e linhas de códigos.
 
