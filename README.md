@@ -1,44 +1,62 @@
-# Bem Vindo
+# 👋 Bem-vindo ao meu GitHub
 
+## 🚀 Sobre mim
+Olá! Me chamo **Diego Vieira** 👨‍💻  
+Sou **estudante de Engenharia da Computação** e atualmente estou focado em **programação em Java**.
 
+Neste repositório, compartilho:
+- Estudos
+- Exercícios
+- Projetos simples e didáticos  
+com o objetivo de **aprender, evoluir e ajudar outras pessoas** que também estão iniciando na programação.
 
-## 🚀 Sobre
+---
 
-### Me chamo Diego Vieira , vou compartilhar com vocês meus estudos e linhas de códigos.
+## 🧠 O que estou estudando
+- Java (fundamentos e prática)
+- Lógica de programação
+- Estruturas de dados
+- Conceitos básicos de desenvolvimento de software
 
-#### Sou estudante de engenharia da computação e faço cursos de programação em JAVA. Portanto os códigos que vou compartilhar serão em JAVA. Espero que vocês façam bom uso.
+---
 
+## 💬 Sobre os códigos
+Os códigos aqui publicados:
+- São **simples e diretos**
+- Focados em **clareza e aprendizado**
+- Ideais para quem está começando
 
-## Common Github Sections
-🧠 Aprendendo a codar em JAVA.
+Sinta-se à vontade para:
+- Fazer perguntas
+- Sugerir melhorias
+- Compartilhar ideias
 
-🤔 Espero ajudar vocês com meus códigos, são simples e de fácil entendimento.
+---
 
-💬 Fique a vontade em me perguntar qualquer dúvida.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holysun1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=holysun1&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holysun1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holysun1&layout=compact)
 
+---
 
+## 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vieira-a85ba0241/)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=holysun1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vieira-a85ba0241/)
-
-[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoc.vieira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoc.vieira/)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diego.vieira.758/)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@/holysun1#9360)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/holysun1)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:diego.vieirad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:diego.vieirad@gmail.com)
 
-## Feedback
+---
 
-#### Se você tem alguma sugestão de código, ou de como posso melhorar, sinta-se a vontade para me contatar.
-
-
+## 📢 Feedback
+Se você tiver sugestões, dúvidas ou ideias para melhorar meus códigos,  
+**será um prazer conversar com você!**
