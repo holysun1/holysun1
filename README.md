@@ -1,62 +1,61 @@
-# 👋 Bem-vindo ao meu GitHub
+# Olá, eu sou o Diego Vieira 
 
-## 🚀 Sobre mim
-Olá! Me chamo **Diego Vieira** 👨‍💻  
-Sou **estudante de Engenharia da Computação** e atualmente estou focado em **programação em Java**.
+**Engenheiro Civil | Estudante de Engenharia da Computação | Desenvolvedor**
 
-Neste repositório, compartilho:
-- Estudos
-- Exercícios
-- Projetos simples e didáticos  
-com o objetivo de **aprender, evoluir e ajudar outras pessoas** que também estão iniciando na programação.
+Sou apaixonado por resolver problemas lógicos e criar soluções eficientes, unindo a precisão e o planejamento da engenharia com a escalabilidade do desenvolvimento de software. Atualmente, estou aprofundando meus conhecimentos em Engenharia da Computação, focado em construir uma base sólida em programação e estruturação de dados.
+
+Meu objetivo neste espaço é compartilhar minha evolução técnica, documentar meus estudos e colaborar com a comunidade de desenvolvedores.
 
 ---
 
-## 🧠 O que estou estudando
-- Java (fundamentos e prática)
-- Lógica de programação
-- Estruturas de dados
-- Conceitos básicos de desenvolvimento de software
+### 🚀 Sobre mim
+
+- 🎓 Graduado em **Engenharia Civil** (com vivência técnica em PCP) e cursando **Engenharia da Computação**.
+- 📚 Autor do e-book técnico **"SQL para INICIANTES"**.
+- 💻 Focado atualmente em dominar **Java** (POO, Lógica e Estruturas de Dados) e no desenvolvimento de aplicações em **Python** (como dashboards e interfaces com Pygame).
+- 📐 Experiência sólida em projetos arquitetônicos, unindo modelagem 3D (AutoCAD, SketchUp) com ferramentas avançadas de renderização.
+- 🤝 Professor e eterno aprendiz. Valorizo a clareza, a didática e o código limpo.
 
 ---
 
-## 💬 Sobre os códigos
-Os códigos aqui publicados:
-- São **simples e diretos**
-- Focados em **clareza e aprendizado**
-- Ideais para quem está começando
+### 🛠️ Tecnologias e Ferramentas
 
-Sinta-se à vontade para:
-- Fazer perguntas
-- Sugerir melhorias
-- Compartilhar ideias
+**Desenvolvimento & Dados:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holysun1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
-
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=holysun1&theme=dark)
-
-## 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holysun1&layout=compact)
+**Engenharia & Design 3D:**
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ---
 
-## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vieira-a85ba0241/)
+### 📊 Estatísticas do GitHub
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoc.vieira/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=holysun1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=holysun1&theme=dark" alt="GitHub Streak" width="48%" />
+</div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diego.vieira.758/)
+<br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/holysun1)
-
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:diego.vieirad@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holysun1&layout=compact&theme=transparent" alt="Top Langs" />
+</div>
 
 ---
 
-## 📢 Feedback
-Se você tiver sugestões, dúvidas ou ideias para melhorar meus códigos,  
-**será um prazer conversar com você!**
+### 📫 Vamos nos conectar!
+
+Sinta-se à vontade para explorar meus repositórios, sugerir melhorias nos meus códigos ou bater um papo sobre projetos, programação e tecnologia. Será um prazer conversar com você!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-vieira-a85ba0241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:diego.vieirad@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>
+  <a href="https://discord.com/users/holysun1"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/diegoc.vieira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/diego.vieira.758/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
