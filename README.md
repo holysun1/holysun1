@@ -34,10 +34,6 @@ Meu objetivo neste espaço é compartilhar minha evolução técnica, documentar
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holysun1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=holysun1&theme=dark" alt="GitHub Streak" width="48%" />
-</div>
 
 <br>
 
